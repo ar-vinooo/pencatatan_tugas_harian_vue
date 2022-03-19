@@ -21,7 +21,10 @@
             <div class="mt-10">
                 <div class="form-group space-y-2">
                     <label for="tanggal_deadline">Tanggal Deadline</label>
-                    <input type="text" class="shadow border outline-none block" />
+                    <input
+                        type="date"
+                        class="shadow border outline-none block h-8 bg-gray-200 text-sm p-2"
+                    />
                 </div>
             </div>
         </div>
